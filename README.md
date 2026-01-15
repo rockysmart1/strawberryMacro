@@ -11,7 +11,6 @@ A custom macropad in a strawberry case. Designed with KiCad and Fusion 360. Made
 ### PCB Layout 
 <img width="346" height="506" alt="PCB UPDATED" src="https://github.com/user-attachments/assets/9824e966-68e1-46c4-87e5-857029ac0f08" />
 
-
 ### Case
 <img width="648" height="438" alt="case" src="https://github.com/user-attachments/assets/e9ac5890-08b0-4b83-8e2f-77f6d63db3f6" />
 
